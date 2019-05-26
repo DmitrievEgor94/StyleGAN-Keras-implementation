@@ -1,1 +1,1 @@
-# StyleGAN-Keras-implementation-
+# StyleGAN(Keras implementation)
